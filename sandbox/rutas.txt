@@ -1,0 +1,7 @@
+../../
+../../data_wrangling/all_graphs/all_graphs.R
+../../r/sandbox/dplyrggplot2.R
+../../r/solutions/body_mass_family.R
+../../r/solutions/body_mass_family_subset.R
+../../r/solutions/getArea.R
+../../r/solutions/read_mass.R
